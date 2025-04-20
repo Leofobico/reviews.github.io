@@ -1,0 +1,20 @@
+body.light {
+    background-color: var(--colorBodyBackgroundlight);
+    color: var(--colorBodyTextlight);
+}
+body.light nav {
+    background-color: var(--colorNavBackgroundlight);
+    border-color: var(--colorNavBorderlight);
+}
+body.light .navSidebar {
+    background-color: var(--colorNavBackgroundlight);
+    border-right-color: var(--colorNavBorderlight);
+    color: var(--colorNavFontlight);
+}
+body.light .navSidebar a {
+    color: var(--colorNavFontlight);
+}
+body.light .navSidebar a:hover {
+    background-color: var(--colorNavHoverlight);
+    color: var(--colorNavFontHoverlight); 
+}

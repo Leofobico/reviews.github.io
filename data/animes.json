@@ -1,0 +1,32 @@
+[
+  {
+    "link": "assets/images/durarara.jpeg",
+    "name": "Durarara",
+    "autor": "Leonardo Cândido Martins"
+  },
+  {
+    "link": "assets/images/ergoproxy.jpeg",
+    "name": "Ergo Proxy",
+    "autor": "Leonardo Cândido Martins"
+  },
+  {
+    "link": "assets/images/bladerunner.gif",
+    "name": "Blade Runner",
+    "autor": "Giovanna"
+  },
+  {
+    "link": "assets/images/kurokonobasket.jpeg",
+    "name": "Kuroko no Basket",
+    "autor": "Thiago Zaghi Silva"
+  },
+  {
+    "link": "assets/images/jujutsu.jpeg",
+    "name": "Jujutsu Kaisen",
+    "autor": "Guilherme Bispo Fernandes"
+  },
+  {
+    "link": "assets/images/aviagemdechihiro.jpeg",
+    "name": "A Viagem de Chihiro",
+    "autor": "Ingrid"
+  }
+]

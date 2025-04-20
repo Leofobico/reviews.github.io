@@ -1,0 +1,20 @@
+body.dark {
+    background-color: var(--colorBodyBackgroundDark);
+    color: var(--colorBodyTextDark);
+}
+body.dark nav {
+    background-color: var(--colorNavBackgroundDark);
+    border-color: var(--colorNavBorderDark);
+}
+body.dark .navSidebar {
+    background-color: var(--colorNavBackgroundDark);
+    border-right-color: var(--colorNavBorderDark);
+    color: var(--colorNavFontDark);
+}
+body.dark .navSidebar a {
+    color: var(--colorNavFontDark);
+}
+body.dark .navSidebar a:hover {
+    background-color: var(--colorNavHoverDark);
+    color: var(--colorNavFontHoverDark); 
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "link": "./assets/images/wombo.jpeg",
+        "name": "twistedmetal",
+        "autor":"Leo",
+        "description": "Inteligencia artifical da Openai WOMBO faz sucesso"
+    },
+    {
+        "link": "./assets/images/labirintomagico.jpg",
+        "name": "twistedmetal",
+        "autor":"Leo",
+        "description": "Labirinto, a Magia do Tempo Estrelado por David Bowie"
+    },
+    {
+        "link": "./assets/images/dollface.jpeg",
+        "name": "twistedmetal",
+        "autor":"Leo",
+        "description": "Twisted Metal recebe série, sem os personagens e sem a história"
+    },
+    {
+        "link": "./assets/images/gits.jpg",
+        "name": "twistedmetal",
+        "autor":"Leo",
+        "description": "A maior ficção deste filme é alguem trair a Scarlet Johanson"
+    }
+]

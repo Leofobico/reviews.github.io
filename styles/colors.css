@@ -1,0 +1,64 @@
+:root {
+    --colorBodyText:                    #D3DDD9;
+    --colorBodyBackground:              rgb(32, 38, 52);
+/*****************************************************/
+    --colorBodyTextLight:               rgb(32, 38, 52);
+    --colorBodyBackgroundLight:         #ececec;
+/*  MODO DARK APOSENTADO
+    --colorBodyTextDark:        #D3DDD9;
+    --colorBodyBackgroundDark:  rgb(32, 38, 52);
+*/
+
+    
+
+
+
+    --colorNavBackground:               rgb(40, 48, 68);
+    --colorNavBorder:                   rgb(21, 27, 35);
+    --colorNavFont:                     rgb(255, 255, 255);
+    --colorNavFontHover:                #5dc2ff;
+    --colorNavFontBackgroundHover:      #414959;
+/*****************************************************/
+    --colorNavBackgroundLight:          #f6f8f7;
+    --colorNavBorderLight:              rgb(225, 226, 226);
+    --colorNavFontLight:                rgb(40, 48, 68);
+    --colorNavFontHoverLight:           #34ADF3;
+    --colorNavFontBackgroundHoverLight: #414959;
+
+/*  MODO DARK APOSENTADO
+    --colorNavBackgroundDark:   rgb(40, 48, 68);
+    --colorNavBorderDark:       rgb(21, 27, 35);
+    --colorNavFontDark:         rgb(255, 255, 255);
+    --colorNavFontHoverDark:    #5dc2ff;
+    --colorNavHoverDark:        #414959;
+*/
+
+
+
+
+    --colorItemHover1:                  ;
+    --colorItemHover2:                  ;
+/*****************************************************/
+    --colorItemHover1Light:             ;
+    --colorItemHover2Light:             ;
+/*  MODO DARK APOSENTADO  
+    --colorItemHover1Dark:       #283044;
+    --colorItemHover2Dark:       #202634;
+*/
+
+
+
+
+    --cor1:#f6f8f7;
+    --cor2:rgb(255, 255, 255);  /*Cores de Títulos*/
+    --cor3:rgb(211, 221, 217);  /*Cores de textos*/
+    --cor4:#34ADF3;
+    --cor5:#414959;
+    --cor6:rgb(40, 48, 68); /*nav antivo*/
+    --cor7:rgb(21, 27, 35); /*Borda nav antigo*/
+    --cor8:#1e252f;         /*cor de bg que o gpt indicou*/
+    --cor9:#2e3542;
+    --cor10:#414959;
+    --cor11:#283044;
+    
+}
