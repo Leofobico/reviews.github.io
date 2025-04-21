@@ -5,7 +5,13 @@ btnTheme.addEventListener("click",()=>{
 });
 
 const itensShorts = document.getElementById("itensShorts");
+
+const basePath = window.location.pathname.includes('reviews.github.io') ? '/reviews.github.io' : '';
+fetch(`${basePath}/data/stories.json`)
+
+/*
 fetch('../data/stories.json')
+*/
   .then(response => response.json())
   .then(dados => {
     dados.forEach(element => {
@@ -26,7 +32,10 @@ fetch('../data/stories.json')
   });
 
 const itensMovies = document.getElementById("itensMovies");
+/*
 fetch('../data/movies.json')
+*/
+fetch(`${basePath}/data/movies.json`)
   .then(response => response.json())
   .then(dados => {
     dados.forEach(element => {
@@ -55,7 +64,10 @@ fetch('../data/movies.json')
   });
 
 const itensGames = document.getElementById("itensGames");
+/*
 fetch('../data/games.json')
+*/
+fetch(`${basePath}/data/games.json`)
   .then(response => response.json())
   .then(dados => {
     dados.forEach(element => {
@@ -84,7 +96,10 @@ fetch('../data/games.json')
   });
 
 const itensAnimes = document.getElementById("itensAnimes");
+/*
 fetch('../data/animes.json')
+*/
+fetch(`${basePath}/data/animes.json`)
   .then(response => response.json())
   .then(dados => {
     dados.forEach(element => {
@@ -113,7 +128,10 @@ fetch('../data/animes.json')
   });
 
 const itensSeries = document.getElementById("itensSeries");
+/*
 fetch('../data/series.json')
+*/
+fetch(`${basePath}/data/series.json`)
   .then(response => response.json())
   .then(dados => {
     dados.forEach(element => {
@@ -142,7 +160,10 @@ fetch('../data/series.json')
   });
 
 const itensOnlyPs3 = document.getElementById("itensOnlyPs3");
+/*
 fetch('../data/onlyps3.json')
+*/
+fetch(`${basePath}/data/onlyps3.json`)
   .then(response => response.json())
   .then(dados => {
     dados.forEach(element => {
@@ -171,7 +192,10 @@ fetch('../data/onlyps3.json')
   });
 
 const itensSongs = document.getElementById("itensSongs");
+/*
 fetch('../data/songs.json')
+*/
+fetch(`${basePath}/data/songs.json`)
   .then(response => response.json())
   .then(dados => {
     dados.forEach(element => {
@@ -201,7 +225,10 @@ fetch('../data/songs.json')
   });
 
 const itensCartoons = document.getElementById("itensCartoons");
+/*
 fetch('../data/cartoons.json')
+*/
+fetch(`${basePath}/data/cartoons.json`)
   .then(response => response.json())
   .then(dados => {
     dados.forEach(element => {
