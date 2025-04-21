@@ -1,16 +1,16 @@
 [
     {
-        "link": "assets/images/extremeghostbusters.jpg",
+        "link": "./assets/images/extremeghostbusters.jpg",
         "name": "Extreme Ghostbusters",
         "autor": "Leo"
     },
     {
-        "link": "assets/images/boondocks.jpg",
+        "link": "./assets/images/boondocks.jpg",
         "name": "The Boondocks",
         "autor": "Leo"
     },
     {
-        "link": "assets/images/tronuprising.jpeg",
+        "link": "./assets/images/tronuprising.jpeg",
         "name": "TRON: Uprising",
         "autor": "Leo"
     }

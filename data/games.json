@@ -1,76 +1,76 @@
 [
   {
-    "link": "assets/images/deathstranding.jpeg",
+    "link": "./assets/images/deathstranding.jpeg",
     "name": "Death Stranding",
     "autor": "Giovanna"
   },
   {
-    "link": "assets/images/splitsecond.jpeg",
+    "link": "./assets/images/splitsecond.jpeg",
     "name": "Split/Second",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/motorstormapocalipse.jpg",
+    "link": "./assets/images/motorstormapocalipse.jpg",
     "name": "MotorStorm Apocalypse",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/blurgame.jpeg",
+    "link": "./assets/images/blurgame.jpeg",
     "name": "Blur",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/saszombieassult3.jpeg",
+    "link": "./assets/images/saszombieassult3.jpeg",
     "name": "SAS: Zombie Assault 3",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/hades2.jpeg",
+    "link": "./assets/images/hades2.jpeg",
     "name": "Hades 2",
     "autor": "Thiago Zaghi Silva"
   },
   {
-    "link": "assets/images/twistedmetalps3.webp",
+    "link": "./assets/images/twistedmetalps3.webp",
     "name": "Twisted Metal",
     "autor": "Leo"
   },
   {
-    "link": "assets/images/section8prejudice.jpeg",
+    "link": "./assets/images/section8prejudice.jpeg",
     "name": "Section 8 Prejudice",
     "autor": "João Vitor Luchetti Chiodi"
   },
   {
-    "link": "assets/images/bo2.jpeg",
+    "link": "./assets/images/bo2.jpeg",
     "name": "Call of Duty: Black Ops 2",
     "autor": "João Vitor Luchetti Chiodi"
   },
   {
-    "link": "assets/images/lol.jpg",
+    "link": "./assets/images/lol.jpg",
     "name": "League of Legends",
     "autor": "João Vitor Luchetti Chiodi"
   },
   {
-    "link": "assets/images/reddead.jpg",
+    "link": "./assets/images/reddead.jpg",
     "name": "Red Dead Redemption",
     "autor": "Leo"
   },
   {
-    "link": "assets/images/mortalshell.jpeg",
+    "link": "./assets/images/mortalshell.jpeg",
     "name": "Mortal Sheel",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/dmcdevilmaycry.jpg",
+    "link": "./assets/images/dmcdevilmaycry.jpg",
     "name": "DMC Devil May Cry",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/lordsofthefallen.jpeg",
+    "link": "./assets/images/lordsofthefallen.jpeg",
     "name": "Lords of the Fallen",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/killingfloor2.jpeg",
+    "link": "./assets/images/killingfloor2.jpeg",
     "name": "Killing Floor 2",
     "autor": "Leonardo Cândido Martins"
   }

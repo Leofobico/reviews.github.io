@@ -1,61 +1,61 @@
 [
   {
-    "link": "/assets/images/ultraviolet.jpeg",
+    "link": "./assets/images/ultraviolet.jpeg",
     "name": "Ultraviolet",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "/assets/images/aggrodr1ft.jpg",
+    "link": "./assets/images/aggrodr1ft.jpg",
     "name": "Aggro Dr1ft",
     "autor": "IGN"
   },
   {
-    "link": "/assets/images/mendigocomumaescopeta.webp",
+    "link": "./assets/images/mendigocomumaescopeta.webp",
     "name": "O Mendigo com uma Escopeta (2011)",
     "autor": "Leo"
   },
   {
-    "link": "/assets/images/sharknado3.jpeg",
+    "link": "./assets/images/sharknado3.jpeg",
     "name": "Sharknado 3: Oh, Não!",
     "autor": "Leo"
   },
   {
-    "link": "/assets/images/scottpilgrim.webp",
+    "link": "./assets/images/scottpilgrim.webp",
     "name": "Scott Pilgrim vs The World",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "/assets/images/tankgirl.jpg",
+    "link": "./assets/images/tankgirl.jpg",
     "name": "Tank Girl - Detonando o Futuro",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "/assets/images/her.jpeg",
+    "link": "./assets/images/her.jpeg",
     "name": "Her",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "/assets/images/casadascoelinhas.jpg",
+    "link": "./assets/images/casadascoelinhas.jpg",
     "name": "A casa das Coelinhas",
     "autor": "Guilherme Constante"
   },
   {
-    "link": "/assets/images/poorthings.jpg",
+    "link": "./assets/images/poorthings.jpg",
     "name": "Poor Things",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "/assets/images/kingsman.jpeg",
+    "link": "./assets/images/kingsman.jpeg",
     "name": "Kingsman",
     "autor": "Thiago Zaghi Silva"
   },
   {
-    "link": "/assets/images/angel-a.jpg",
+    "link": "./assets/images/angel-a.jpg",
     "name": "Angel-a",
     "autor": "Leo"
   },
   {
-    "link": "/assets/images/ofabulosodestinodeameliepoulain.jpg",
+    "link": "./assets/images/ofabulosodestinodeameliepoulain.jpg",
     "name": "O Fabuloso Destino de Amélie Poulain",
     "autor": "Leo"
   }

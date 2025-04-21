@@ -1,24 +1,24 @@
 [
   {
-    "link": "assets/images/daftpunk.jpeg",
+    "link": "./assets/images/daftpunk.jpeg",
     "name": "End of Line",
     "artist": "Daft Punk",
     "autor": "Leo"
   },
   {
-    "link": "assets/images/brothersmartins.jpeg",
+    "link": "./assets/images/brothersmartins.jpeg",
     "name": "The Missionary",
     "artist": "Brothers Martins",
     "autor": "Leo"
   },
   {
-    "link": "assets/images/thechaingang.jpeg",
+    "link": "./assets/images/thechaingang.jpeg",
     "name": "Sleepwalking",
     "artist": "The Chain Gang Of 1974",
     "autor": "Leo"
   },
   {
-    "link": "assets/images/fujiikaze.jpeg",
+    "link": "./assets/images/fujiikaze.jpeg",
     "name": "\"Shinunoga E-Wa\" Live at Nippon Budokan (2020)",
     "artist": "Fujii Kaze",
     "autor": "Ingrid"

@@ -1,31 +1,31 @@
 [
   {
-    "link": "assets/images/exterminadordofuturocronicadesarahconnor.jpeg",
+    "link": "./assets/images/exterminadordofuturocronicadesarahconnor.jpeg",
     "name": "O Exterminador do Futuro: As Crônicas de Sarah Connor",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/defiance.jpeg",
+    "link": "./assets/images/defiance.jpeg",
     "name": "Defiance",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/theoffice.jpg",
+    "link": "./assets/images/theoffice.jpg",
     "name": "The Office",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/sandman.jpeg",
+    "link": "./assets/images/sandman.jpeg",
     "name": "The Sandman",
     "autor": "Giovanna"
   },
   {
-    "link": "assets/images/iasp.jpeg",
+    "link": "./assets/images/iasp.jpeg",
     "name": "It's Always Sunny in Philadelphia",
     "autor": "Ingrid"
   },
   {
-    "link": "assets/images/tic.jpg",
+    "link": "./assets/images/tic.jpg",
     "name": "The IT Crowd",
     "autor": "Ingrid"
   }

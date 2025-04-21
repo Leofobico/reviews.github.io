@@ -1,18 +1,18 @@
 [
     {   
         "id":"1",
-        "url":"/assets/images/motorstormapocalypse.gif"
+        "url":"./assets/images/motorstormapocalypse.gif"
     },
     {   
         "id":"2",
-        "url":"/assets/images/Mortal-Shell-gameplay-1-1076x516.jpg"
+        "url":"./assets/images/Mortal-Shell-gameplay-1-1076x516.jpg"
     },
     {   
         "id":"3",
-        "url":"/assets/images/splitsecond.gif"
+        "url":"./assets/images/splitsecond.gif"
     },
     {   
         "id":"4",
-        "url":"/assets/images/bloodborne.gif"
+        "url":"./assets/images/bloodborne.gif"
     }
 ]

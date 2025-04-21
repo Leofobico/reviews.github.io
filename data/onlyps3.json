@@ -1,46 +1,46 @@
 [
   {
-    "link": "assets/images/splitsecond.jpeg",
+    "link": "./assets/images/splitsecond.jpeg",
     "name": "Split/Second",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/motorstormapocalipse.jpg",
+    "link": "./assets/images/motorstormapocalipse.jpg",
     "name": "MotorStorm Apocalypse",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/blurgame.jpeg",
+    "link": "./assets/images/blurgame.jpeg",
     "name": "Blur",
     "autor": "Leonardo Cândido Martins"
   },
   {
-    "link": "assets/images/twistedmetalps3.webp",
+    "link": "./assets/images/twistedmetalps3.webp",
     "name": "Twisted Metal",
     "autor": "Leo"
   },
   {
-    "link": "/assets/images/section8prejudice.jpeg",
+    "link": "./assets/images/section8prejudice.jpeg",
     "name": "Section 8 Prejudice",
     "autor": "João Vitor Luchetti Chiodi"
   },
   {
-    "link": "/assets/images/bo2.jpeg",
+    "link": "./assets/images/bo2.jpeg",
     "name": "Call of Duty: Black Ops 2",
     "autor": "João Vitor Luchetti Chiodi"
   },
   {
-    "link": "assets/images/reddead.jpg",
+    "link": "./assets/images/reddead.jpg",
     "name": "Red Dead Redemption",
     "autor": "Leo"
   },
   {
-    "link": "assets/images/demonsouls.webp",
+    "link": "./assets/images/demonsouls.webp",
     "name": "Demon Souls",
     "autor": "Leo"
   },
   {
-    "link": "assets/images/motorstorm.jpg",
+    "link": "./assets/images/motorstorm.jpg",
     "name": "MotorStorm",
     "autor": "Leo"
   }
