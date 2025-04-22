@@ -21,6 +21,16 @@
     max-width: 100%; /* opcional, evita que a imagem estoure */
     height: auto;
 }
+#popupCat {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(115%, -198.3%);
+    z-index: 2;
+    max-width: 100%; /* opcional, evita que a imagem estoure */
+    height: auto;
+}
+
 
 .popupContent {
     position: absolute;
